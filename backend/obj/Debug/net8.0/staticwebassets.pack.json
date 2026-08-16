@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\0832fa01-da67-46a6-8d6f-d68db4a60eba_9ad80996a078b58b8fe3ca4f4f5445a8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0832fa01-da67-46a6-8d6f-d68db4a60eba_9ad80996a078b58b8fe3ca4f4f5445a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\1afc34a7-ce6d-4b68-b6c6-dfc70f87dd12_buchet_lalele.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1afc34a7-ce6d-4b68-b6c6-dfc70f87dd12_buchet_lalele.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\35011015-9ca8-4ef7-b333-089dcfdfdd97_2ab2bf260e952d68db60c310bd624085.jpg",
+      "PackagePath": "staticwebassets\\uploads\\35011015-9ca8-4ef7-b333-089dcfdfdd97_2ab2bf260e952d68db60c310bd624085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\35afc068-89d9-4278-ad47-1d3ba90a7284_4f589281d013b51741d975735ec27e7a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\35afc068-89d9-4278-ad47-1d3ba90a7284_4f589281d013b51741d975735ec27e7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\3849e843-176c-4554-a41e-d0ef6dfd80f1_e2b8e634cce4a37b687f3b04e59b2359.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3849e843-176c-4554-a41e-d0ef6dfd80f1_e2b8e634cce4a37b687f3b04e59b2359.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\3d5c4491-d778-47fa-8288-20df2d836755_palmier.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3d5c4491-d778-47fa-8288-20df2d836755_palmier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\3f837fc3-ee30-408f-8756-1d1f7c8c2c6d_1cd31aa3d7f82259a7f0376d77b59dad.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3f837fc3-ee30-408f-8756-1d1f7c8c2c6d_1cd31aa3d7f82259a7f0376d77b59dad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\4411ad0c-2019-459c-92e0-9a1ea3709785_Trandafir-pomisor-Minerva-600x600.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4411ad0c-2019-459c-92e0-9a1ea3709785_Trandafir-pomisor-Minerva-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\58fea319-2661-4183-8d99-f8ec4e40312d_4a0bc4df2dcccd00eb65f12ce1207614.jpg",
+      "PackagePath": "staticwebassets\\uploads\\58fea319-2661-4183-8d99-f8ec4e40312d_4a0bc4df2dcccd00eb65f12ce1207614.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\64c0f88d-b009-4f42-a6b6-fa76e6abdaae_70c3b6ec6847dd08dc7bf9568431148b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\64c0f88d-b009-4f42-a6b6-fa76e6abdaae_70c3b6ec6847dd08dc7bf9568431148b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\6681569e-08ef-47c0-be5f-d0206b367ec2_6659e004ee7abbe898ac52755596e08d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6681569e-08ef-47c0-be5f-d0206b367ec2_6659e004ee7abbe898ac52755596e08d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\708fe229-e5c6-4a02-8d84-72f0c52c99cb_efc95a6646a908a1da1629658ec4f01d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\708fe229-e5c6-4a02-8d84-72f0c52c99cb_efc95a6646a908a1da1629658ec4f01d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\788eb1d7-278c-4558-8ee7-1548706ef5ac_aa4d52da952de4cba49c81210cd1c9db.jpg",
+      "PackagePath": "staticwebassets\\uploads\\788eb1d7-278c-4558-8ee7-1548706ef5ac_aa4d52da952de4cba49c81210cd1c9db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\8355278a-ee61-42a5-9a64-c7e55fc21e10_1eab892687112ab002fd19ec91462cdb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8355278a-ee61-42a5-9a64-c7e55fc21e10_1eab892687112ab002fd19ec91462cdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\85fbc426-6aff-4400-8181-56a1ab7e7ebb_64740e4b6cc00cdc6b07dd18c9e33de0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\85fbc426-6aff-4400-8181-56a1ab7e7ebb_64740e4b6cc00cdc6b07dd18c9e33de0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\891bd5d1-45c5-4836-8b51-868bab59f893_leandru-nerium-tip-copac-cu-flori-roz-pastelate-262980.jpg",
+      "PackagePath": "staticwebassets\\uploads\\891bd5d1-45c5-4836-8b51-868bab59f893_leandru-nerium-tip-copac-cu-flori-roz-pastelate-262980.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\916388ed-ee3f-4e10-afae-8d797b910aa0_Screenshot_20250601_034148.png",
+      "PackagePath": "staticwebassets\\uploads\\916388ed-ee3f-4e10-afae-8d797b910aa0_Screenshot_20250601_034148.png"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\a3ec6d8f-5927-41c1-ab41-a8de691de2b0_b77f3e0783072d3dd1015766e1e46298.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a3ec6d8f-5927-41c1-ab41-a8de691de2b0_b77f3e0783072d3dd1015766e1e46298.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\a6c230cf-694a-4e17-9952-6dab85405c4e_5ba0ca12e07778585618f104d57d331a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a6c230cf-694a-4e17-9952-6dab85405c4e_5ba0ca12e07778585618f104d57d331a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\a7a826c3-e948-4974-b54a-a0fa9edc7681_Screenshot_20200910-033206.png",
+      "PackagePath": "staticwebassets\\uploads\\a7a826c3-e948-4974-b54a-a0fa9edc7681_Screenshot_20200910-033206.png"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\adafadac-80a8-48fd-b010-516111001600_dfdbecc7fb3d24564e649c0a0a5ae32b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\adafadac-80a8-48fd-b010-516111001600_dfdbecc7fb3d24564e649c0a0a5ae32b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\b614af57-28b8-4509-a664-ccd2cbf29c5d_8ec51bdba5286e393620f3ef9458c654.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b614af57-28b8-4509-a664-ccd2cbf29c5d_8ec51bdba5286e393620f3ef9458c654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\b6d5d241-296c-4e42-9de4-b0f93be69085_busuioc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b6d5d241-296c-4e42-9de4-b0f93be69085_busuioc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\ba43f023-d134-4d1e-ba51-5c401af36d17_orhidee.webp",
+      "PackagePath": "staticwebassets\\uploads\\ba43f023-d134-4d1e-ba51-5c401af36d17_orhidee.webp"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\bf9ebccf-6028-4c29-ba50-305a7047d6d2_giuvaierpolitistul_2040216247900880833_10225250441.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bf9ebccf-6028-4c29-ba50-305a7047d6d2_giuvaierpolitistul_2040216247900880833_10225250441.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\c30f7963-3661-46b5-9f5a-95f061d8cca0_414b1fb4363e60e175f2bdd0aba70c94.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c30f7963-3661-46b5-9f5a-95f061d8cca0_414b1fb4363e60e175f2bdd0aba70c94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\cca69f7e-8e6c-4cd9-a492-b441b1a76d96_ac4ea37d3f5f1669dde5f25e1d066626.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cca69f7e-8e6c-4cd9-a492-b441b1a76d96_ac4ea37d3f5f1669dde5f25e1d066626.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\d3f1a61d-9014-470d-8788-10d36dae1fea_f234305faec32150656cc223ed4209ac.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d3f1a61d-9014-470d-8788-10d36dae1fea_f234305faec32150656cc223ed4209ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\de59c92e-78b5-4370-9963-60ac7da93ae5_7411267e676ddfef920c75962c3d71d1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\de59c92e-78b5-4370-9963-60ac7da93ae5_7411267e676ddfef920c75962c3d71d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\e2365843-fb23-4841-845c-d5ae8b615670_1203e87ac51b02ce552adf82ace55785.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e2365843-fb23-4841-845c-d5ae8b615670_1203e87ac51b02ce552adf82ace55785.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\e53520b6-72c4-4b4d-a54d-0f6dc5ed5184_trandafiri_rosii.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e53520b6-72c4-4b4d-a54d-0f6dc5ed5184_trandafiri_rosii.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\f0f58ecb-ae01-4acd-9923-b4506c492ea1_aranjament.png",
+      "PackagePath": "staticwebassets\\uploads\\f0f58ecb-ae01-4acd-9923-b4506c492ea1_aranjament.png"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\f6382e73-147d-409a-b919-9233e3ea08b7_a2e5f9b569fd44a25932105010ad692e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f6382e73-147d-409a-b919-9233e3ea08b7_a2e5f9b569fd44a25932105010ad692e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ursu lache\\Desktop\\github\\PC-FlowerShopWeb\\backend\\wwwroot\\uploads\\fe5de0dc-dc5f-4f4c-b599-1b6f4ebf1081_97dd8098aad3f01ba4f7a2a94291c11a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fe5de0dc-dc5f-4f4c-b599-1b6f4ebf1081_97dd8098aad3f01ba4f7a2a94291c11a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

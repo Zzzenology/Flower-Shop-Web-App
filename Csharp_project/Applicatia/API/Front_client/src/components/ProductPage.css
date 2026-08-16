@@ -1,0 +1,172 @@
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+.product-intro-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(rgba(1, 37, 5, 0.5), rgba(2, 34, 6, 0.5)), url('https://images.photowall.com/products/72231/vintage-flower-wall-grey.jpg?h=699&q=85');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.product-intro-section h1 {
+  color: #f4aaaa;
+}
+
+
+.product-container {
+  margin-top: 100vh;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  z-index: 1;
+  border-radius: 3%;
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.product-page-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 30px;
+  padding: 2rem;
+  gap: 3rem;
+  background-color: #7e9785;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.product-image-container {
+  flex: 1;
+}
+
+.product-image {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.product-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.product-title {
+  font-size: 2rem;
+  margin: 0;
+  color: white;
+}
+
+.product-price {
+  font-size: 1.8rem;
+  color: white;
+  font-weight: bold;
+}
+
+.product-stock {
+  font-size: 1.2rem;
+  color: white;
+  margin: 10px 0;
+}
+
+.stock-available {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.stock-empty {
+  color: #f44336;
+  font-weight: bold;
+}
+
+.product-description {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: white;
+}
+
+.buy-button {
+  background: linear-gradient(135deg, rgb(160, 125, 125), #f4aaaa);
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.1rem;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-top: 1rem;
+  align-self: flex-start;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.buy-button:hover {
+  background: linear-gradient(135deg, #f4aaaa, rgb(160, 125, 125));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.buy-button:disabled {
+  background: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.buy-button:disabled:hover {
+  background: #cccccc;
+  transform: none;
+  box-shadow: none;
+}
+
+.product-not-found {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.5rem;
+  color: #ff4040;
+  margin-top: 100vh;
+  background-color: white;
+  border-radius: 3%;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .product-page-container {
+    flex-direction: column;
+    margin: 0 1rem;
+  }
+  
+  .product-image {
+    max-height: 300px;
+  }
+}

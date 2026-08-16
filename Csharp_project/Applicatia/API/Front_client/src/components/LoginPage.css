@@ -1,0 +1,124 @@
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.login-intro-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(rgba(1, 37, 5, 0.5), rgba(2, 34, 6, 0.5)), 
+              url('https://images.photowall.com/products/72231/vintage-flower-wall-grey.jpg?h=699&q=85');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.login-intro-section h1 {
+  color: #f4aaaa;
+}
+
+.login-container {
+  position: fixed; 
+  top: 50%;      
+  left: 50%;     
+  transform: translate(-50%, -50%);
+  background-color: rgb(255, 255, 255);
+  z-index: 1;
+  border-radius: 3%;
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+  width: 90%;    
+  max-width: 500px;
+}
+
+
+.auth-container {
+  width: 350px;
+  padding: 30px;
+  border-radius: 12px;
+  position: relative;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  text-align: center;
+  margin: 30px;
+}
+
+.auth-container h2 {
+  color: #f4aaaa;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px 15px; 
+  border: none;
+  border-radius: 25px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  border: 1px solid #ddd;
+}
+
+
+.submit-btn {
+  width: 100%;
+  padding: 12px; 
+  background: linear-gradient(135deg, #525252, #525252);
+  color: white;
+  border: none;
+  border-radius: 25px; 
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px; 
+  font-size: 16px; 
+  border: 1px solid transparent; 
+}
+
+.submit-btn:hover {
+  background: linear-gradient(135deg, #110e0e, #1e1f21);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+
+.switch-text {
+  margin-top: 20px;
+  color: #000000;
+}
+
+.switch-btn {
+  background: none;
+  border: none;
+  color: #f4aaaa;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+  font-size: 14px;
+  padding: 2px 4px;
+}
+
+.switch-btn:hover {
+  color: #e91e63;
+}

@@ -1,0 +1,28 @@
+MongoDB command to set default stock to 100 for all products:
+
+// Connect to your MongoDB database
+use your_database_name
+
+// Update all products to set stock to 100 where stock field does not exist or is null
+db.products.updateMany(
+  {
+    $or: [
+      { "stock": { $exists: false } },
+      { "stock": null }
+    ]
+  },
+  {
+    $set: { "stock": 100 }
+  }
+)
+
+// Alternative: Update ALL products to have stock = 100 (regardless of current value)
+db.products.updateMany(
+  {},
+  {
+    $set: { "stock": 100 }
+  }
+)
+
+// To verify the update worked:
+db.products.find({}, {"nume": 1, "stock": 1})

@@ -1,0 +1,137 @@
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+}
+
+.register-intro-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(1, 37, 5, 0.5), rgba(2, 34, 6, 0.5)), 
+              url('https://images.photowall.com/products/72231/vintage-flower-wall-grey.jpg?h=699&q=85');
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+
+.register-container {
+  position: relative;
+  z-index: 100;
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  width: 90%;
+  max-width: 500px;
+  margin: 2rem auto;
+}
+
+.auth-container {
+  width: 100%;
+  padding: 30px;
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  background-color: rgb(181, 181, 181);
+  text-align: center;
+}
+
+
+.auth-container h2 {
+  color: #ff4040;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+
+.form-group {
+  margin-bottom: 15px;
+  text-align: left; /* Fix pentru aliniere */
+}
+
+.form-group input,
+.role-select select,
+.submit-btn {
+  width: 100%;
+  padding: 12px 20px; 
+  border: none;
+  border-radius: 25px !important; 
+  background-color: white;
+  color: #000000;
+  box-shadow: 0 2px 5px rgba(181, 181, 181, 0.5);
+  font-size: 16px;
+  box-sizing: border-box;
+  outline: none;
+  transition: all 0.3s;
+}
+
+
+.role-select select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='black'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 15px center;
+  background-size: 12px;
+  padding-right: 35px;
+  margin-bottom: 20px;
+}
+
+
+.submit-btn {
+  background: linear-gradient(135deg, #525252, #525252);
+  color: white !important;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+  border: none !important;
+}
+
+.submit-btn:hover {
+  background: linear-gradient(135deg, #110e0e, #1e1f21);
+  transform: translateY(-2px);
+}
+
+
+.switch-text {
+  margin-top: 20px;
+  color: #000000;
+  display: block;
+}
+
+.switch-btn {
+  background: none;
+  border: none;
+  color: #ff4040 !important;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0 !important;
+  text-decoration: underline;
+}
+
+
+.role-select label {
+  display: block;
+  margin-bottom: 8px;
+  color: #000000;
+  font-weight: 600;
+}
